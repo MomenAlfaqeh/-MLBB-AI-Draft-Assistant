@@ -1,1 +1,1 @@
-# -MLBB-AI-Draft-Assistant
+# MLBB-AI-Draft-Assistant
